@@ -2,11 +2,11 @@ import re
 from commons.decorator_log import logs
 
 db_info = {
-    "host":"47.110.245.238",
+    "host":"",
     "port":3306,
-    "user":"autotest",
-    "passwd":"Autotest@123",
-    "db_name":"autotest"
+    "user":"",
+    "passwd":"",
+    "db_name":""
 }
 
 @logs
